@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AACA,QACE,WAAW,CACX,YAAY,CACZ,cACF","file":"main.82c43026.chunk.css","sourcesContent":["\n.active{\n  width:300px;\n  height:300px;\n  background:red;\n}\n"]}
